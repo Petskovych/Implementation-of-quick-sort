@@ -1,0 +1,7 @@
+﻿  main.cpp
+  sort.cpp
+  Generating Code...
+C:\Users\user\Desktop\fastsort\main\main\sort.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> C:\Users\user\Desktop\fastsort\main\x64\Debug\main.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
